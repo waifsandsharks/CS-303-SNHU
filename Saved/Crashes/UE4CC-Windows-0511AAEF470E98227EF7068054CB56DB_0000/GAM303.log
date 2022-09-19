@@ -1,0 +1,1078 @@
+﻿Log file open, 09/12/22 19:54:50
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: GAM303
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-259119872) SRandInit(-259119872).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 1.228045
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line: -EpicPortal  -epicusername="Lilwizardhat" -epicuserid=c702a0d7ff0f4d2a8f1e9c7d2ecfce96 -epiclocale=en -epicsandboxid=ue
+LogInit: Base directory: C:/Program Files (x86)/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2022.09.13-00.54.53:505][  0]LogInit: Selected Device Profile: [Windows]
+[2022.09.13-00.54.53:505][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.09.13-00.54.53:519][  0]LogInit: Computer: LAPTOP-K1GI59O1
+[2022.09.13-00.54.53:519][  0]LogInit: User: Waifs
+[2022.09.13-00.54.53:519][  0]LogInit: CPU Page size=4096, Cores=2
+[2022.09.13-00.54.53:519][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.09.13-00.54.53:519][  0]LogMemory: Memory total: Physical=3.8GB (4GB approx)
+[2022.09.13-00.54.53:519][  0]LogMemory: Platform Memory Stats for Windows
+[2022.09.13-00.54.53:519][  0]LogMemory: Process Physical Memory: 272.45 MB used, 272.45 MB peak
+[2022.09.13-00.54.53:519][  0]LogMemory: Process Virtual Memory: 269.68 MB used, 269.68 MB peak
+[2022.09.13-00.54.53:519][  0]LogMemory: Physical Memory: 3565.02 MB used,  330.28 MB free, 3895.30 MB total
+[2022.09.13-00.54.53:519][  0]LogMemory: Virtual Memory: 4765.82 MB used,  330.28 MB free, 134217728.00 MB total
+[2022.09.13-00.54.53:742][  0]LogInit: Using OS detected language (en-US).
+[2022.09.13-00.54.53:742][  0]LogInit: Using OS detected locale (en-US).
+[2022.09.13-00.54.53:750][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2022.09.13-00.54.54:604][  0]LogInit: Setting process to per monitor DPI aware
+[2022.09.13-00.54.55:880][  0]LogD3D11RHI: D3D11 adapters:
+[2022.09.13-00.54.56:010][  0]LogD3D11RHI:    0. 'Intel(R) UHD Graphics' (Feature Level 11_0)
+[2022.09.13-00.54.56:010][  0]LogD3D11RHI:       128/0/1947 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2022.09.13-00.54.56:025][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2022.09.13-00.54.56:025][  0]LogD3D11RHI:       0/0/1947 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.09.13-00.54.56:025][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2022.09.13-00.54.56:034][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.09.13-00.54.56:034][  0]LogD3D11RHI:     GPU DeviceId: 0x9a78 (for the marketing name, search the web for "GPU Device Id")
+[2022.09.13-00.54.56:034][  0]LogWindows: EnumDisplayDevices:
+[2022.09.13-00.54.56:035][  0]LogWindows:    0. 'Intel(R) UHD Graphics' (P:1 D:1)
+[2022.09.13-00.54.56:035][  0]LogWindows:    1. 'Intel(R) UHD Graphics' (P:0 D:0)
+[2022.09.13-00.54.56:035][  0]LogWindows:    2. 'Intel(R) UHD Graphics' (P:0 D:0)
+[2022.09.13-00.54.56:035][  0]LogWindows:    3. 'Intel(R) UHD Graphics' (P:0 D:0)
+[2022.09.13-00.54.56:035][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2022.09.13-00.54.56:035][  0]LogD3D11RHI:     Adapter Name: Intel(R) UHD Graphics
+[2022.09.13-00.54.56:035][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2022.09.13-00.54.56:035][  0]LogD3D11RHI:      Driver Date: Unknown
+[2022.09.13-00.54.56:035][  0]LogRHI: Texture pool is 771 MB (70% of 1101 MB)
+[2022.09.13-00.54.56:063][  0]LogD3D11RHI: Async texture creation enabled
+[2022.09.13-00.54.56:096][  0]LogD3D11RHI: GPU Timing Frequency: 19.200000 (Debug: 2 0)
+[2022.09.13-00.54.56:101][  0]LogShaderCompilers: Guid format shader working directory is -23 characters bigger than the processId version (../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Intermediate/Shaders/WorkingDirectory/18832/).
+[2022.09.13-00.54.56:101][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Waifs/AppData/Local/Temp/UnrealShaderWorkingDir/343AE9FE48A3B59F8AAFCC9ACC019D4F/'.
+[2022.09.13-00.54.56:101][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.09.13-00.54.59:099][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2022.09.13-00.54.59:183][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2022.09.13-00.54.59:271][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2022.09.13-00.54.59:358][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2022.09.13-00.54.59:625][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2022.09.13-00.54.59:731][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2022.09.13-00.54.59:806][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2022.09.13-00.54.59:881][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2022.09.13-00.54.59:941][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2022.09.13-00.55.00:020][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2022.09.13-00.55.00:102][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2022.09.13-00.55.00:181][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2022.09.13-00.55.00:261][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2022.09.13-00.55.00:341][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2022.09.13-00.55.00:502][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2022.09.13-00.55.00:502][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2022.09.13-00.55.00:575][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2022.09.13-00.55.00:638][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2022.09.13-00.55.00:775][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2022.09.13-00.55.00:822][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2022.09.13-00.55.00:907][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2022.09.13-00.55.00:981][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2022.09.13-00.55.01:065][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2022.09.13-00.55.01:153][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2022.09.13-00.55.01:153][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.09.13-00.55.01:974][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.09.13-00.55.02:208][  0]LogDerivedDataCache: Loaded boot cache 0.23s 69MB C:/Users/Waifs/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2022.09.13-00.55.02:208][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Waifs/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2022.09.13-00.55.02:209][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.09.13-00.55.02:209][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.09.13-00.55.02:209][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.09.13-00.55.02:209][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.09.13-00.55.02:236][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.09.13-00.55.02:250][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Waifs/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.09.13-00.55.02:274][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2022.09.13-00.55.02:276][  0]LogSlate: Using Freetype 2.6.0
+[2022.09.13-00.55.02:280][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.09.13-00.55.02:280][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.09.13-00.55.03:300][  0]LogInit: Selected Device Profile: [Windows]
+[2022.09.13-00.55.04:415][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2022.09.13-00.55.04:466][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2022.09.13-00.55.04:466][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.09.13-00.55.04:466][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2022.09.13-00.55.04:466][  0]LogMeshReduction: No automatic mesh merging module available
+[2022.09.13-00.55.04:466][  0]LogMeshMerging: No automatic mesh merging module available
+[2022.09.13-00.55.04:529][  0]LogNetVersion: GAM303 , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 4079393575)
+[2022.09.13-00.55.04:829][  0]LogAssetRegistry: FAssetRegistry took 0.0284 seconds to start up
+[2022.09.13-00.55.05:819][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.102581 seconds
+[2022.09.13-00.55.05:837][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2022.09.13-00.55.05:837][  0]LogUObjectAllocator: 7363704 out of 0 bytes used by permanent object pool.
+[2022.09.13-00.55.05:837][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.09.13-00.55.05:962][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2022.09.13-00.55.09:623][  0]LogMaterial: Missing cached shader map for material GenericHMDMaterial, compiling. 
+[2022.09.13-00.55.09:719][  0]LogMaterial: Missing cached shader map for material TeleportDirectionMaterial, compiling. 
+[2022.09.13-00.55.09:868][  0]LogMaterial: Missing cached shader map for material LaserPointerMaterial, compiling. 
+[2022.09.13-00.55.09:906][  0]LogMaterial: Missing cached shader map for material LaserPointerMaterial, compiling. 
+[2022.09.13-00.55.09:999][  0]LogMaterial: Missing cached shader map for material GridMaterial, compiling. 
+[2022.09.13-00.55.10:013][  0]LogMaterial: Missing cached shader map for material VRTextMaterial, compiling. 
+[2022.09.13-00.55.10:079][  0]LogMaterial: Missing cached shader map for material ArrowMaterial, compiling. 
+[2022.09.13-00.55.10:280][  0]LogMaterial: Missing cached shader map for material LineMaterial, compiling. 
+[2022.09.13-00.55.10:296][  0]LogMaterial: Missing cached shader map for material VRTextMaterial, compiling. 
+[2022.09.13-00.55.12:488][  0]LogMaterial: Missing cached shader map for material DefaultSpriteMaterial, compiling. 
+[2022.09.13-00.55.12:512][  0]LogMaterial: Missing cached shader map for material DefaultSpriteMaterial, compiling. 
+[2022.09.13-00.55.13:135][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.09.13-00.55.13:212][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.09.13-00.55.13:852][  0]LogMaterial: Missing cached shader map for material DefaultMaterial, compiling. 
+[2022.09.13-00.55.14:615][  0]LogMaterial: Missing cached shader map for material BaseColor, compiling. 
+[2022.09.13-00.55.14:632][  0]LogMaterial: Missing cached shader map for material CustomDepth, compiling. 
+[2022.09.13-00.55.14:677][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2022.09.13-00.55.14:681][  0]LogMaterial: Missing cached shader map for material CustomStencil, compiling. 
+[2022.09.13-00.55.14:698][  0]LogMaterial: Missing cached shader map for material FinalImage, compiling. 
+[2022.09.13-00.55.14:714][  0]LogMaterial: Missing cached shader map for material LightingModel, compiling. 
+[2022.09.13-00.55.14:730][  0]LogMaterial: Missing cached shader map for material MaterialAO, compiling. 
+[2022.09.13-00.55.14:748][  0]LogMaterial: Missing cached shader map for material Metallic, compiling. 
+[2022.09.13-00.55.14:801][  0]LogMaterial: Missing cached shader map for material Opacity, compiling. 
+[2022.09.13-00.55.14:844][  0]LogMaterial: Missing cached shader map for material Roughness, compiling. 
+[2022.09.13-00.55.14:861][  0]LogMaterial: Missing cached shader map for material SceneColor, compiling. 
+[2022.09.13-00.55.14:879][  0]LogMaterial: Missing cached shader map for material SceneDepth, compiling. 
+[2022.09.13-00.55.14:893][  0]LogMaterial: Missing cached shader map for material SeparateTranslucencyRGB, compiling. 
+[2022.09.13-00.55.14:905][  0]LogMaterial: Missing cached shader map for material SeparateTranslucencyA, compiling. 
+[2022.09.13-00.55.14:921][  0]LogMaterial: Missing cached shader map for material Specular, compiling. 
+[2022.09.13-00.55.14:934][  0]LogMaterial: Missing cached shader map for material SubsurfaceColor, compiling. 
+[2022.09.13-00.55.14:948][  0]LogMaterial: Missing cached shader map for material WorldNormal, compiling. 
+[2022.09.13-00.55.14:964][  0]LogMaterial: Missing cached shader map for material AmbientOcclusion, compiling. 
+[2022.09.13-00.55.14:991][  0]LogMaterial: Missing cached shader map for material CustomDepthWorldUnits, compiling. 
+[2022.09.13-00.55.15:011][  0]LogMaterial: Missing cached shader map for material SceneDepthWorldUnits, compiling. 
+[2022.09.13-00.55.15:064][  0]LogMaterial: Missing cached shader map for material PreTonemapHDRColor, compiling. 
+[2022.09.13-00.55.15:116][  0]LogMaterial: Missing cached shader map for material PostTonemapHDRColor, compiling. 
+[2022.09.13-00.55.16:310][  0]SourceControl: Source control is disabled
+[2022.09.13-00.55.16:310][  0]SourceControl: Source control is disabled
+[2022.09.13-00.55.16:410][  0]SourceControl: Source control is disabled
+[2022.09.13-00.55.16:510][  0]SourceControl: Source control is disabled
+[2022.09.13-00.55.17:566][  0]LogMaterial: Missing cached shader map for material DefaultMediaPlaneMaterial, compiling. 
+[2022.09.13-00.55.18:005][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.09.13-00.55.18:441][  0]LogOcInput: OculusInput pre-init called
+[2022.09.13-00.55.18:811][  0]LogMaterial: Missing cached shader map for material HighResScreenshot, compiling. 
+[2022.09.13-00.55.18:834][  0]LogMaterial: Missing cached shader map for material HighResScreenshotMask, compiling. 
+[2022.09.13-00.55.18:862][  0]LogMaterial: Missing cached shader map for material HighResScreenshotCaptureRegion, compiling. 
+[2022.09.13-00.55.18:958][  0]LogEngine: Initializing Engine...
+[2022.09.13-00.55.18:968][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.09.13-00.55.18:976][  0]LogMaterial: Missing cached shader map for material WireframeMaterial, compiling. Is special engine material.
+[2022.09.13-00.55.19:316][  0]LogMaterial: Missing cached shader map for material LevelColorationLitMaterial, compiling. Is special engine material.
+[2022.09.13-00.55.20:214][  0]LogMaterial: Missing cached shader map for material LevelColorationUnlitMaterial, compiling. Is special engine material.
+[2022.09.13-00.55.20:675][  0]LogMaterial: Missing cached shader map for material MAT_LevelColorationLitLightmapUV, compiling. Is special engine material.
+[2022.09.13-00.55.21:524][  0]LogMaterial: Missing cached shader map for material ShadedLevelColorationLitMaterial, compiling. Is special engine material.
+[2022.09.13-00.55.22:372][  0]LogMaterial: Missing cached shader map for material ShadedLevelColorationUnlitMateri, compiling. Is special engine material.
+[2022.09.13-00.55.22:658][  0]LogMaterial: Missing cached shader map for material VertexColorMaterial, compiling. 
+[2022.09.13-00.55.22:792][  0]LogMaterial: Missing cached shader map for material VertexColorViewMode_ColorOnly, compiling. 
+[2022.09.13-00.55.22:827][  0]LogMaterial: Missing cached shader map for material VertexColorViewMode_AlphaAsColor, compiling. 
+[2022.09.13-00.55.22:853][  0]LogMaterial: Missing cached shader map for material VertexColorViewMode_RedOnly, compiling. 
+[2022.09.13-00.55.22:878][  0]LogMaterial: Missing cached shader map for material VertexColorViewMode_GreenOnly, compiling. 
+[2022.09.13-00.55.22:907][  0]LogMaterial: Missing cached shader map for material VertexColorViewMode_BlueOnly, compiling. 
+[2022.09.13-00.55.22:934][  0]LogMaterial: Missing cached shader map for material RemoveSurfaceMaterial, compiling. 
+[2022.09.13-00.55.22:953][  0]LogMaterial: Missing cached shader map for material DebugMeshMaterial, compiling. 
+[2022.09.13-00.55.22:982][  0]LogMaterial: Missing cached shader map for material M_InvalidLightmapSettings, compiling. 
+[2022.09.13-00.55.23:052][  0]LogMaterial: Missing cached shader map for material GizmoMaterial, compiling. 
+[2022.09.13-00.55.23:084][  0]LogMaterial: Missing cached shader map for material PhAT_JointLimitMaterial, compiling. 
+[2022.09.13-00.55.23:119][  0]LogMaterial: Missing cached shader map for material GeomMaterial, compiling. 
+[2022.09.13-00.55.23:139][  0]LogMaterial: Missing cached shader map for material EditorBrushMaterial, compiling. 
+[2022.09.13-00.55.23:168][  0]LogMaterial: Missing cached shader map for material BoneWeightMaterial, compiling. 
+[2022.09.13-00.55.23:311][  0]LogMaterial: Missing cached shader map for material ClothMaterial, compiling. 
+[2022.09.13-00.55.23:337][  0]LogMaterial: Missing cached shader map for material ClothMaterial_WF, compiling. 
+[2022.09.13-00.55.23:372][  0]LogMaterial: Missing cached shader map for material DebugEditorMaterial, compiling. 
+[2022.09.13-00.55.23:402][  0]LogMaterial: Missing cached shader map for material PreviewShadowIndicatorMaterial, compiling. 
+[2022.09.13-00.55.23:909][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2022.09.13-00.55.23:909][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2022.09.13-00.55.24:791][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.09.13-00.55.24:884][  0]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2022.09.13-00.55.25:191][  0]LogInit: FAudioDevice initialized.
+[2022.09.13-00.55.25:771][  0]LogDerivedDataCache: Saved boot cache 0.58s 70MB C:/Users/Waifs/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2022.09.13-00.55.26:117][  0]LogInit: Texture streaming: Enabled
+[2022.09.13-00.55.26:749][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.09.13-00.55.26:990][  0]LogInit: Transaction tracking system initialized
+[2022.09.13-00.55.27:523][  0]BlueprintLog: New page: Editor Load
+[2022.09.13-00.55.29:289][  0]LocalizationService: Localization service is disabled
+[2022.09.13-00.55.30:545][  0]LogConsoleResponse: Display: 
+[2022.09.13-00.55.30:610][  0]LogMaterial: Missing cached shader map for material Cross_Mat, compiling. 
+[2022.09.13-00.55.30:639][  0]LogMaterial: Missing cached shader map for material PhAT_BoneSelectedMaterial, compiling. 
+[2022.09.13-00.55.30:660][  0]LogMaterial: Missing cached shader map for material PhAT_ElemSelectedMaterial, compiling. 
+[2022.09.13-00.55.30:682][  0]LogMaterial: Missing cached shader map for material PhAT_NoCollisionMaterial, compiling. 
+[2022.09.13-00.55.30:702][  0]LogMaterial: Missing cached shader map for material PhAT_UnselectedMaterial, compiling. 
+[2022.09.13-00.55.30:726][  0]LogMaterial: Missing cached shader map for material Tick_Mat, compiling. 
+[2022.09.13-00.55.30:759][  0]LogMaterial: Missing cached shader map for material WidgetGridVertexColorMaterial_Ma, compiling. 
+[2022.09.13-00.55.30:798][  0]LogMaterial: Missing cached shader map for material WidgetMaterial, compiling. 
+[2022.09.13-00.55.30:819][  0]LogMaterial: Missing cached shader map for material WidgetMaterial_Current, compiling. 
+[2022.09.13-00.55.30:841][  0]LogMaterial: Missing cached shader map for material WidgetMaterial_X, compiling. 
+[2022.09.13-00.55.30:861][  0]LogMaterial: Missing cached shader map for material WidgetMaterial_Y, compiling. 
+[2022.09.13-00.55.30:880][  0]LogMaterial: Missing cached shader map for material WidgetMaterial_Z, compiling. 
+[2022.09.13-00.55.30:900][  0]LogMaterial: Missing cached shader map for material WidgetVertexColorMaterial, compiling. 
+[2022.09.13-00.55.30:976][  0]LogMaterial: Missing cached shader map for material LevelGridMaterial, compiling. 
+[2022.09.13-00.55.31:067][  0]LogMaterial: Missing cached shader map for material BlinkingCaret, compiling. 
+[2022.09.13-00.55.31:148][  0]LogMaterial: Missing cached shader map for material M_StreamingPause, compiling. 
+[2022.09.13-00.55.31:279][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2022.09.13-00.55.31:281][  0]LogCook: Display: Mobile HDR setting 1
+[2022.09.13-00.55.31:281][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2022.09.13-00.55.31:579][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/' took 0.02s
+[2022.09.13-00.55.33:362][  0]SourceControl: Source control is disabled
+[2022.09.13-00.55.33:374][  0]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 C:/Program Files (x86)/UE_4.18/FeaturePacks/StarterContent.upack)
+[2022.09.13-00.55.33:391][  0]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2022.09.13-00.55.33:395][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Floor_400x400.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Architecture/Floor_400x400.uasset"
+[2022.09.13-00.55.33:396][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Pillar_50x500.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Architecture/Pillar_50x500.uasset"
+[2022.09.13-00.55.33:406][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Architecture/SM_AssetPlatform.uasset"
+[2022.09.13-00.55.33:407][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x200.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Architecture/Wall_400x200.uasset"
+[2022.09.13-00.55.33:409][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x300.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Architecture/Wall_400x300.uasset"
+[2022.09.13-00.55.33:418][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x400.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Architecture/Wall_400x400.uasset"
+[2022.09.13-00.55.33:422][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_500x500.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Architecture/Wall_500x500.uasset"
+[2022.09.13-00.55.33:424][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Architecture/Wall_Door_400x300.uasset"
+[2022.09.13-00.55.33:427][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Architecture/Wall_Door_400x400.uasset"
+[2022.09.13-00.55.33:433][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Architecture/Wall_Window_400x300.uasset"
+[2022.09.13-00.55.33:435][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Architecture/Wall_Window_400x400.uasset"
+[2022.09.13-00.55.33:450][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse01.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Audio/Collapse01.uasset"
+[2022.09.13-00.55.33:457][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse02.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Audio/Collapse02.uasset"
+[2022.09.13-00.55.33:458][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse_Cue.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Audio/Collapse_Cue.uasset"
+[2022.09.13-00.55.33:466][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion01.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Audio/Explosion01.uasset"
+[2022.09.13-00.55.33:477][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion02.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Audio/Explosion02.uasset"
+[2022.09.13-00.55.33:479][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion_Cue.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Audio/Explosion_Cue.uasset"
+[2022.09.13-00.55.33:485][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Audio/Fire01.uasset"
+[2022.09.13-00.55.33:487][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01_Cue.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Audio/Fire01_Cue.uasset"
+[2022.09.13-00.55.33:489][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Audio/Fire_Sparks01.uasset"
+[2022.09.13-00.55.33:493][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset"
+[2022.09.13-00.55.33:499][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Audio/Light01.uasset"
+[2022.09.13-00.55.33:501][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01_Cue.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Audio/Light01_Cue.uasset"
+[2022.09.13-00.55.33:504][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Audio/Light02.uasset"
+[2022.09.13-00.55.33:506][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02_Cue.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Audio/Light02_Cue.uasset"
+[2022.09.13-00.55.33:518][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Audio/Smoke01.uasset"
+[2022.09.13-00.55.33:519][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01_Cue.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Audio/Smoke01_Cue.uasset"
+[2022.09.13-00.55.33:521][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Background_Cue.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Audio/Starter_Background_Cue.uasset"
+[2022.09.13-00.55.33:537][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Birds01.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Audio/Starter_Birds01.uasset"
+[2022.09.13-00.55.33:577][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music01.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Audio/Starter_Music01.uasset"
+[2022.09.13-00.55.33:578][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music_Cue.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Audio/Starter_Music_Cue.uasset"
+[2022.09.13-00.55.33:613][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind05.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Audio/Starter_Wind05.uasset"
+[2022.09.13-00.55.33:636][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind06.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Audio/Starter_Wind06.uasset"
+[2022.09.13-00.55.33:651][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Audio/Steam01.uasset"
+[2022.09.13-00.55.33:652][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01_Cue.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Audio/Steam01_Cue.uasset"
+[2022.09.13-00.55.33:655][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+[2022.09.13-00.55.33:656][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
+[2022.09.13-00.55.33:656][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+[2022.09.13-00.55.33:662][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+[2022.09.13-00.55.33:663][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
+[2022.09.13-00.55.33:666][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset"
+[2022.09.13-00.55.33:670][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset"
+[2022.09.13-00.55.33:674][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/BP_LightStudio.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Blueprints/BP_LightStudio.uasset"
+[2022.09.13-00.55.33:675][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset"
+[2022.09.13-00.55.33:678][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+[2022.09.13-00.55.33:681][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset"
+[2022.09.13-00.55.33:683][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+[2022.09.13-00.55.33:690][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
+[2022.09.13-00.55.33:696][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/Skybox.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Blueprints/Assets/Skybox.uasset"
+[2022.09.13-00.55.33:704][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset"
+[2022.09.13-00.55.33:709][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset"
+[2022.09.13-00.55.34:579][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+[2022.09.13-00.55.34:601][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting.umap" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Maps/Advanced_Lighting.umap"
+[2022.09.13-00.55.34:628][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
+[2022.09.13-00.55.34:771][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default.umap" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Maps/Minimal_Default.umap"
+[2022.09.13-00.55.34:798][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset"
+[2022.09.13-00.55.34:833][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap.umap" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Maps/StarterMap.umap"
+[2022.09.13-00.55.34:875][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Maps/StarterMap_BuiltData.uasset"
+[2022.09.13-00.55.34:878][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_AssetPlatform.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+[2022.09.13-00.55.34:884][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Floor.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+[2022.09.13-00.55.34:886][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Wall.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+[2022.09.13-00.55.34:888][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+[2022.09.13-00.55.34:891][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
+[2022.09.13-00.55.34:902][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
+[2022.09.13-00.55.34:919][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
+[2022.09.13-00.55.34:930][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+[2022.09.13-00.55.34:954][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+[2022.09.13-00.55.34:957][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset"
+[2022.09.13-00.55.34:961][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
+[2022.09.13-00.55.34:964][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
+[2022.09.13-00.55.34:965][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset"
+[2022.09.13-00.55.34:977][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Grime.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
+[2022.09.13-00.55.34:984][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Panels.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Materials/M_Concrete_Panels.uasset"
+[2022.09.13-00.55.34:988][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Poured.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
+[2022.09.13-00.55.34:990][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
+[2022.09.13-00.55.34:991][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Glass.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Materials/M_Glass.uasset"
+[2022.09.13-00.55.34:994][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Grass.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Materials/M_Ground_Grass.uasset"
+[2022.09.13-00.55.35:000][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Gravel.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Materials/M_Ground_Gravel.uasset"
+[2022.09.13-00.55.35:003][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Moss.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Materials/M_Ground_Moss.uasset"
+[2022.09.13-00.55.35:008][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+[2022.09.13-00.55.35:010][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+[2022.09.13-00.55.35:012][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Chrome.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Materials/M_Metal_Chrome.uasset"
+[2022.09.13-00.55.35:017][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Copper.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+[2022.09.13-00.55.35:025][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Gold.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Materials/M_Metal_Gold.uasset"
+[2022.09.13-00.55.35:028][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Rust.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Materials/M_Metal_Rust.uasset"
+[2022.09.13-00.55.35:031][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Steel.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Materials/M_Metal_Steel.uasset"
+[2022.09.13-00.55.35:033][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Basalt.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Materials/M_Rock_Basalt.uasset"
+[2022.09.13-00.55.35:034][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
+[2022.09.13-00.55.35:037][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Materials/M_Rock_Sandstone.uasset"
+[2022.09.13-00.55.35:039][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Slate.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Materials/M_Rock_Slate.uasset"
+[2022.09.13-00.55.35:041][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
+[2022.09.13-00.55.35:043][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+[2022.09.13-00.55.35:047][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+[2022.09.13-00.55.35:049][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Panel.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+[2022.09.13-00.55.35:052][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Lake.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Materials/M_Water_Lake.uasset"
+[2022.09.13-00.55.35:053][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Ocean.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Materials/M_Water_Ocean.uasset"
+[2022.09.13-00.55.35:056][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+[2022.09.13-00.55.35:060][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+[2022.09.13-00.55.35:066][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Oak.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+[2022.09.13-00.55.35:069][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Pine.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Materials/M_Wood_Pine.uasset"
+[2022.09.13-00.55.35:072][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Walnut.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+[2022.09.13-00.55.35:074][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Ambient_Dust.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+[2022.09.13-00.55.35:077][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Explosion.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Particles/P_Explosion.uasset"
+[2022.09.13-00.55.35:079][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Fire.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Particles/P_Fire.uasset"
+[2022.09.13-00.55.35:081][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Smoke.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Particles/P_Smoke.uasset"
+[2022.09.13-00.55.35:105][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Sparks.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Particles/P_Sparks.uasset"
+[2022.09.13-00.55.35:137][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Steam_Lit.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Particles/P_Steam_Lit.uasset"
+[2022.09.13-00.55.35:139][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Burst.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+[2022.09.13-00.55.35:142][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2022.09.13-00.55.35:146][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2022.09.13-00.55.35:148][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+[2022.09.13-00.55.35:151][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/m_flare_01.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+[2022.09.13-00.55.35:152][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+[2022.09.13-00.55.35:154][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+[2022.09.13-00.55.35:155][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2022.09.13-00.55.35:165][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2022.09.13-00.55.35:168][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Spark.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+[2022.09.13-00.55.35:171][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/MaterialSphere.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Props/MaterialSphere.uasset"
+[2022.09.13-00.55.35:173][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Bush.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Props/SM_Bush.uasset"
+[2022.09.13-00.55.35:176][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Chair.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Props/SM_Chair.uasset"
+[2022.09.13-00.55.35:183][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_CornerFrame.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Props/SM_CornerFrame.uasset"
+[2022.09.13-00.55.35:237][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Couch.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Props/SM_Couch.uasset"
+[2022.09.13-00.55.35:312][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Door.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Props/SM_Door.uasset"
+[2022.09.13-00.55.35:357][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_DoorFrame.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Props/SM_DoorFrame.uasset"
+[2022.09.13-00.55.35:426][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_GlassWindow.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Props/SM_GlassWindow.uasset"
+[2022.09.13-00.55.35:442][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset"
+[2022.09.13-00.55.35:446][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Wall.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Props/SM_Lamp_Wall.uasset"
+[2022.09.13-00.55.35:457][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset"
+[2022.09.13-00.55.35:459][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Props/SM_PillarFrame.uasset"
+[2022.09.13-00.55.35:463][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame300.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Props/SM_PillarFrame300.uasset"
+[2022.09.13-00.55.35:465][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Rock.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Props/SM_Rock.uasset"
+[2022.09.13-00.55.35:471][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Shelf.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Props/SM_Shelf.uasset"
+[2022.09.13-00.55.35:475][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Stairs.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Props/SM_Stairs.uasset"
+[2022.09.13-00.55.35:486][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Statue.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Props/SM_Statue.uasset"
+[2022.09.13-00.55.35:495][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_TableRound.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Props/SM_TableRound.uasset"
+[2022.09.13-00.55.35:496][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_WindowFrame.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Props/SM_WindowFrame.uasset"
+[2022.09.13-00.55.35:498][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Bush.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Props/Materials/M_Bush.uasset"
+[2022.09.13-00.55.35:500][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Chair.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Props/Materials/M_Chair.uasset"
+[2022.09.13-00.55.35:514][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Door.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Props/Materials/M_Door.uasset"
+[2022.09.13-00.55.35:519][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Frame.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Props/Materials/M_Frame.uasset"
+[2022.09.13-00.55.35:521][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Lamp.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Props/Materials/M_Lamp.uasset"
+[2022.09.13-00.55.35:526][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset"
+[2022.09.13-00.55.35:529][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset"
+[2022.09.13-00.55.35:531][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Rock.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Props/Materials/M_Rock.uasset"
+[2022.09.13-00.55.35:533][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Shelf.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Props/Materials/M_Shelf.uasset"
+[2022.09.13-00.55.35:536][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Statue.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Props/Materials/M_Statue.uasset"
+[2022.09.13-00.55.35:538][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+[2022.09.13-00.55.35:541][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_TableRound.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+[2022.09.13-00.55.35:543][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cone.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Shapes/Shape_Cone.uasset"
+[2022.09.13-00.55.35:544][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cube.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Shapes/Shape_Cube.uasset"
+[2022.09.13-00.55.35:547][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cylinder.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Shapes/Shape_Cylinder.uasset"
+[2022.09.13-00.55.35:551][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset"
+[2022.09.13-00.55.35:552][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Shapes/Shape_Pipe.uasset"
+[2022.09.13-00.55.35:554][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Shapes/Shape_Pipe_180.uasset"
+[2022.09.13-00.55.35:556][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Shapes/Shape_Pipe_90.uasset"
+[2022.09.13-00.55.35:557][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Plane.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Shapes/Shape_Plane.uasset"
+[2022.09.13-00.55.35:559][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset"
+[2022.09.13-00.55.35:561][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Sphere.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Shapes/Shape_Sphere.uasset"
+[2022.09.13-00.55.35:566][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Torus.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Shapes/Shape_Torus.uasset"
+[2022.09.13-00.55.35:568][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Shapes/Shape_Trim.uasset"
+[2022.09.13-00.55.35:569][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset"
+[2022.09.13-00.55.35:572][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset"
+[2022.09.13-00.55.35:574][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Shapes/Shape_TriPyramid.uasset"
+[2022.09.13-00.55.35:576][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Tube.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Shapes/Shape_Tube.uasset"
+[2022.09.13-00.55.35:577][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Shapes/Shape_Wedge_A.uasset"
+[2022.09.13-00.55.35:579][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Shapes/Shape_Wedge_B.uasset"
+[2022.09.13-00.55.35:583][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Shapes/Shape_WideCapsule.uasset"
+[2022.09.13-00.55.35:644][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset"
+[2022.09.13-00.55.35:709][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset"
+[2022.09.13-00.55.35:739][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset"
+[2022.09.13-00.55.36:002][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset"
+[2022.09.13-00.55.36:043][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset"
+[2022.09.13-00.55.36:079][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset"
+[2022.09.13-00.55.36:114][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset"
+[2022.09.13-00.55.36:392][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset"
+[2022.09.13-00.55.36:458][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
+[2022.09.13-00.55.36:480][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset"
+[2022.09.13-00.55.36:763][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset"
+[2022.09.13-00.55.36:783][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
+[2022.09.13-00.55.36:853][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset"
+[2022.09.13-00.55.36:854][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Burst_M.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Textures/T_Burst_M.uasset"
+[2022.09.13-00.55.36:862][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_D.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Textures/T_Bush_D.uasset"
+[2022.09.13-00.55.36:865][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_N.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Textures/T_Bush_N.uasset"
+[2022.09.13-00.55.36:867][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset"
+[2022.09.13-00.55.36:876][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset"
+[2022.09.13-00.55.36:879][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_M.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Textures/T_Chair_M.uasset"
+[2022.09.13-00.55.36:889][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_N.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Textures/T_Chair_N.uasset"
+[2022.09.13-00.55.36:890][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Textures/T_Checker_Noise_M.uasset"
+[2022.09.13-00.55.37:209][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset"
+[2022.09.13-00.55.37:216][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset"
+[2022.09.13-00.55.37:270][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset"
+[2022.09.13-00.55.37:282][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset"
+[2022.09.13-00.55.37:292][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset"
+[2022.09.13-00.55.37:596][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset"
+[2022.09.13-00.55.37:615][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
+[2022.09.13-00.55.37:640][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset"
+[2022.09.13-00.55.37:706][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset"
+[2022.09.13-00.55.37:976][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset"
+[2022.09.13-00.55.37:992][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset"
+[2022.09.13-00.55.38:046][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset"
+[2022.09.13-00.55.38:099][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset"
+[2022.09.13-00.55.38:647][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset"
+[2022.09.13-00.55.38:666][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset"
+[2022.09.13-00.55.38:692][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset"
+[2022.09.13-00.55.38:695][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset"
+[2022.09.13-00.55.38:726][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset"
+[2022.09.13-00.55.38:735][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_M.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Textures/T_Door_M.uasset"
+[2022.09.13-00.55.38:746][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_N.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Textures/T_Door_N.uasset"
+[2022.09.13-00.55.38:749][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Textures/T_Dust_Particle_D.uasset"
+[2022.09.13-00.55.38:767][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Textures/T_Explosion_SubUV.uasset"
+[2022.09.13-00.55.38:773][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_SubUV.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Textures/T_Fire_SubUV.uasset"
+[2022.09.13-00.55.38:783][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset"
+[2022.09.13-00.55.38:786][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_M.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Textures/T_Frame_M.uasset"
+[2022.09.13-00.55.38:798][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_N.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Textures/T_Frame_N.uasset"
+[2022.09.13-00.55.38:799][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Gradinet_01.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Textures/T_Gradinet_01.uasset"
+[2022.09.13-00.55.39:140][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Textures/T_Ground_Grass_D.uasset"
+[2022.09.13-00.55.39:180][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Textures/T_Ground_Grass_N.uasset"
+[2022.09.13-00.55.39:261][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset"
+[2022.09.13-00.55.39:812][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset"
+[2022.09.13-00.55.39:842][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_ground_Moss_D.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Textures/T_ground_Moss_D.uasset"
+[2022.09.13-00.55.39:909][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Textures/T_Ground_Moss_N.uasset"
+[2022.09.13-00.55.39:917][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_M.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Textures/T_Lamp_M.uasset"
+[2022.09.13-00.55.39:928][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_N.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Textures/T_Lamp_N.uasset"
+[2022.09.13-00.55.40:244][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_MacroVariation.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Textures/T_MacroVariation.uasset"
+[2022.09.13-00.55.40:284][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset"
+[2022.09.13-00.55.40:309][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Textures/T_Metal_Copper_D.uasset"
+[2022.09.13-00.55.40:580][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Textures/T_Metal_Gold_D.uasset"
+[2022.09.13-00.55.40:592][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Textures/T_Metal_Gold_N.uasset"
+[2022.09.13-00.55.40:651][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Textures/T_Metal_Rust_D.uasset"
+[2022.09.13-00.55.40:678][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Textures/T_Metal_Rust_N.uasset"
+[2022.09.13-00.55.40:692][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Textures/T_Metal_Steel_D.uasset"
+[2022.09.13-00.55.41:017][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Textures/T_Metal_Steel_N.uasset"
+[2022.09.13-00.55.41:046][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset"
+[2022.09.13-00.55.41:055][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_M.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Textures/T_RockMesh_M.uasset"
+[2022.09.13-00.55.41:102][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_N.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Textures/T_RockMesh_N.uasset"
+[2022.09.13-00.55.41:132][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset"
+[2022.09.13-00.55.41:484][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset"
+[2022.09.13-00.55.41:507][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset"
+[2022.09.13-00.55.41:537][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset"
+[2022.09.13-00.55.41:586][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset"
+[2022.09.13-00.55.41:982][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Textures/T_Rock_Slate_D.uasset"
+[2022.09.13-00.55.42:037][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Textures/T_Rock_Slate_N.uasset"
+[2022.09.13-00.55.42:112][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2022.09.13-00.55.42:123][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_M.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Textures/T_Shelf_M.uasset"
+[2022.09.13-00.55.42:138][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_N.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Textures/T_Shelf_N.uasset"
+[2022.09.13-00.55.42:139][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Single_Tile_N.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Textures/T_Single_Tile_N.uasset"
+[2022.09.13-00.55.42:162][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Textures/T_Smoke_SubUV.uasset"
+[2022.09.13-00.55.42:171][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset"
+[2022.09.13-00.55.42:177][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Spark_Core.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Textures/T_Spark_Core.uasset"
+[2022.09.13-00.55.42:180][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_M.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Textures/T_Statue_M.uasset"
+[2022.09.13-00.55.42:222][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_N.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Textures/T_Statue_N.uasset"
+[2022.09.13-00.55.42:255][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_M.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Textures/T_TableRound_M.uasset"
+[2022.09.13-00.55.42:269][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_N.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Textures/T_TableRound_N.uasset"
+[2022.09.13-00.55.42:271][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Textures/T_Tech_Dot_M.uasset"
+[2022.09.13-00.55.42:273][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Textures/T_Tech_Dot_N.uasset"
+[2022.09.13-00.55.42:287][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
+[2022.09.13-00.55.42:290][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset"
+[2022.09.13-00.55.42:295][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Textures/T_Tech_Panel_M.uasset"
+[2022.09.13-00.55.42:739][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Textures/T_Tech_Panel_N.uasset"
+[2022.09.13-00.55.42:746][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_M.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Textures/T_Water_M.uasset"
+[2022.09.13-00.55.42:757][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_N.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Textures/T_Water_N.uasset"
+[2022.09.13-00.55.42:777][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2022.09.13-00.55.42:791][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset"
+[2022.09.13-00.55.42:799][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
+[2022.09.13-00.55.42:840][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Textures/T_Wood_Oak_D.uasset"
+[2022.09.13-00.55.42:886][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Textures/T_Wood_Oak_N.uasset"
+[2022.09.13-00.55.43:247][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Textures/T_Wood_Pine_D.uasset"
+[2022.09.13-00.55.43:263][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Textures/T_Wood_Pine_N.uasset"
+[2022.09.13-00.55.43:282][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset"
+[2022.09.13-00.55.43:294][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" to "../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2022.09.13-00.55.43:307][  0]LogMaterial: Missing cached shader map for material M_Basic_Floor, compiling. 
+[2022.09.13-00.55.43:419][  0]LogStaticMesh: Building static mesh Floor_400x400...
+[2022.09.13-00.55.43:425][  0]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+[2022.09.13-00.55.43:874][  0]LogRenderer: Reallocating scene render targets to support 256x256 Format 10 NumSamples 1 (Frame:1).
+[2022.09.13-00.55.44:776][  0]LogSavePackage: Save=52.02ms
+[2022.09.13-00.55.44:776][  0]LogSavePackage: Moving '../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Saved/Floor_400x4009FB065A1417E114565B4B684B4D97B68.tmp' to '../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Architecture/Floor_400x400.uasset'
+[2022.09.13-00.55.44:784][  0]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/StarterContent/Architecture/Floor_400x400.uasset
+[2022.09.13-00.55.44:785][  0]LogFeaturePack: Warning: Inserted 1 feature packs
+[2022.09.13-00.55.44:791][  0]Cmd: MAP LOAD FILE="../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.09.13-00.55.45:164][  0]LightingResults: New page: Lighting Build
+[2022.09.13-00.55.45:610][  0]MapCheck: New page: Map Check
+[2022.09.13-00.55.45:610][  0]LightingResults: New page: Lighting Build
+[2022.09.13-00.55.46:472][  0]LogMaterial: Missing cached shader map for material M_Sky_Panning_Clouds2, compiling. 
+[2022.09.13-00.55.46:600][  0]LogMaterial: Missing cached shader map for material CubeMaterial, compiling. 
+[2022.09.13-00.55.46:650][  0]LogMaterial: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2022.09.13-00.55.46:816][  0]LogMaterial: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2022.09.13-00.55.47:168][  0]LogMaterial: Missing cached shader map for material RampMaterial, compiling. 
+[2022.09.13-00.55.47:215][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.09.13-00.55.47:298][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.09.13-00.55.47:371][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.09.13-00.55.47:672][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 300.186ms to complete.
+[2022.09.13-00.55.47:672][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 2.882
+[2022.09.13-00.55.48:128][  0]LogCollectionManager: Loaded 0 collections in 0.003968 seconds
+[2022.09.13-00.55.48:309][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Saved/Collections/' took 0.01s
+[2022.09.13-00.55.48:309][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/Developers/Waifs/Collections/' took 0.01s
+[2022.09.13-00.55.48:310][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/Collections/' took 0.01s
+[2022.09.13-00.55.48:310][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2022.09.13-00.55.48:386][  0]LogContentBrowser: Native class hierarchy populated in 0.0740 seconds. Added 2363 classes and 519 folders.
+[2022.09.13-00.55.48:497][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2022.09.13-00.55.48:686][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2022.09.13-00.55.48:759][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2022.09.13-00.55.48:915][  0]LogSlate: Took 0.004978 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.09.13-00.55.48:929][  0]LogSlate: Took 0.007884 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.09.13-00.55.48:978][  0]LogSlate: Took 0.033402 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.09.13-00.55.54:825][  0]LogMaterial: Missing cached shader map for material LevelGridMaterial2, compiling. 
+[2022.09.13-00.55.54:853][  0]LogRenderer: Reallocating scene render targets to support 964x432 Format 10 NumSamples 1 (Frame:1).
+[2022.09.13-00.55.56:069][  0]LogSlate: Took 0.510753 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2022.09.13-00.55.58:830][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2022.09.13-00.55.58:830][  0]LogLoad: (Engine Initialization) Total time: 72.91 seconds
+[2022.09.13-00.55.58:830][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.09.13-00.55.58:833][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2022.09.13-00.55.59:733][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.09.13-00.56.01:158][  5]LogAssetRegistry: Asset discovery search completed in 56.3524 seconds
+[2022.09.13-00.56.01:164][  5]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2022.09.13-00.56.01:164][  5]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000276 seconds (updated 0 objects)
+[2022.09.13-00.56.16:474][467]LogMaterial: Missing cached shader map for material LayerVisMaterial, compiling. 
+[2022.09.13-00.56.16:494][467]LogMaterial: Missing cached shader map for material LayerVisMaterial, compiling. 
+[2022.09.13-00.56.16:529][467]LogMaterial: Missing cached shader map for material SelectBrushMaterial, compiling. 
+[2022.09.13-00.56.16:547][467]LogMaterial: Missing cached shader map for material SelectBrushMaterial, compiling. 
+[2022.09.13-00.56.16:584][467]LogMaterial: Missing cached shader map for material SelectBrushMaterial, compiling. 
+[2022.09.13-00.56.16:602][467]LogMaterial: Missing cached shader map for material SelectBrushMaterial, compiling. 
+[2022.09.13-00.56.16:647][467]LogMaterial: Missing cached shader map for material MaskBrushMaterial, compiling. 
+[2022.09.13-00.56.16:664][467]LogMaterial: Missing cached shader map for material MaskBrushMaterial, compiling. 
+[2022.09.13-00.56.16:682][467]LogMaterial: Missing cached shader map for material MaskBrushMaterial, compiling. 
+[2022.09.13-00.56.16:726][467]LogMaterial: Missing cached shader map for material LandscapeLayerUsageMaterial, compiling. 
+[2022.09.13-00.56.16:738][467]LogMaterial: Missing cached shader map for material LandscapeLayerUsageMaterial, compiling. 
+[2022.09.13-00.56.16:782][467]LogMaterial: Missing cached shader map for material MirrorPlaneMaterial, compiling. 
+[2022.09.13-00.56.16:818][467]LogMaterial: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2022.09.13-00.56.16:835][467]LogMaterial: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2022.09.13-00.56.16:853][467]LogMaterial: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2022.09.13-00.56.16:893][467]LogMaterial: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2022.09.13-00.56.16:930][467]LogMaterial: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2022.09.13-00.56.16:947][467]LogMaterial: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2022.09.13-00.56.16:982][467]LogMaterial: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2022.09.13-00.56.17:001][467]LogMaterial: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2022.09.13-00.56.17:044][467]LogMaterial: Missing cached shader map for material AlphaBrushMaterial, compiling. 
+[2022.09.13-00.56.17:063][467]LogMaterial: Missing cached shader map for material AlphaBrushMaterial, compiling. 
+[2022.09.13-00.56.17:100][467]LogMaterial: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2022.09.13-00.56.17:119][467]LogMaterial: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2022.09.13-00.56.17:156][467]LogMaterial: Missing cached shader map for material MaskBrushMaterial, compiling. 
+[2022.09.13-00.56.17:176][467]LogMaterial: Missing cached shader map for material MaskBrushMaterial, compiling. 
+[2022.09.13-00.56.17:247][467]LogTexture: Display: Building textures: Texture2D_2 (G8, 128X128)
+[2022.09.13-00.56.36:183][447]LogSlate: Took 0.000861 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2022.09.13-00.56.36:297][447]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2022.09.13-00.56.36:349][447]LogMaterial: Missing cached shader map for material WorldGridMaterial, compiling. Is special engine material.
+[2022.09.13-01.01.21:920][140]Cmd: TRANSACTION UNDO
+[2022.09.13-01.01.21:924][140]LogEditorTransaction: Undo Landscape Editing: Noise
+[2022.09.13-01.01.22:047][140]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2022.09.13-01.01.22:230][140]LogSlate: Took 0.001205 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2022.09.13-01.01.22:373][142]Cmd: TRANSACTION UNDO
+[2022.09.13-01.01.22:373][142]LogEditorTransaction: Undo Landscape Editing: Noise
+[2022.09.13-01.01.22:404][142]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2022.09.13-01.01.37:701][614]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2022.09.13-01.02.19:999][359]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2022.09.13-01.02.20:375][359]LogSavePackage: Save=970.97ms
+[2022.09.13-01.02.20:375][359]LogSavePackage: Moving '../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Saved/ThirdPersonExampleMap8E64E0D94E00E2DAA2D7AA805EB99E21.tmp' to '../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2022.09.13-01.02.20:387][359]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2022.09.13-01.02.21:157][359]LogSavePackage: Save=541.26ms
+[2022.09.13-01.02.21:157][359]LogSavePackage: Moving '../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Saved/ThirdPersonExampleMap_BuiltData62DCE8E54EB0FF5A5048D1A63490081D.tmp' to '../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2022.09.13-01.02.21:160][359]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset
+[2022.09.13-01.12.36:295][880]LogSavePackage: Save=1706.30ms
+[2022.09.13-01.12.36:300][880]LogSavePackage: Moving '../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Saved/ThirdPersonExampleMap6E1D4DB74077F6C8218A6E8B84B835F0.tmp' to '../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2022.09.13-01.12.36:317][880]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2022.09.13-01.12.36:952][880]LogSavePackage: Save=567.41ms
+[2022.09.13-01.12.36:952][880]LogSavePackage: Moving '../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Saved/ThirdPersonExampleMap_BuiltDataF758E5024840A21430E8C4BF68D0FD62.tmp' to '../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2022.09.13-01.12.36:959][880]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset
+[2022.09.13-01.20.47:931][371]LogTemp: Repeating last play command: Selected Viewport
+[2022.09.13-01.20.48:772][371]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2022.09.13-01.20.48:777][371]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.09.13-01.20.48:802][371]PIE: New page: PIE session: ThirdPersonExampleMap (Sep 12, 2022, 3:20:48 PM)
+[2022.09.13-01.20.48:807][371]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.09.13-01.20.49:078][371]LogPlayLevel: PIE: StaticDuplicateObject took: (0.268945s)
+[2022.09.13-01.20.49:127][371]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.09.13-01.20.49:142][371]LogPlayLevel: PIE: World Init took: (0.062423s)
+[2022.09.13-01.20.49:151][371]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.344283s)
+[2022.09.13-01.20.49:467][371]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2022.09.13-01.20.49:753][371]LogInit: FAudioDevice initialized.
+[2022.09.13-01.20.49:971][371]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.09.13-01.20.50:056][371]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2022.09.12-20.20.50
+[2022.09.13-01.20.50:062][371]LogWorld: Bringing up level for play took: 0.073145
+[2022.09.13-01.20.50:449][371]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0109 seconds. Added 11 classes and 0 folders.
+[2022.09.13-01.20.50:468][371]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 1.25
+[2022.09.13-01.20.50:492][371]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2022.09.13-01.21.05:367][  9]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2022.09.13-01.21.05:487][  9]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2022.09.13-01.21.25:928][665]Cmd: DELETE
+[2022.09.13-01.21.25:929][665]Cmd: ACTOR DELETE
+[2022.09.13-01.21.25:990][665]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.09.13-01.21.26:038][665]LogEditorActor: Deleted 1 Actors (0.083 secs)
+[2022.09.13-01.21.27:413][715]LogEditorActor: Deleted Actor: PlayerStart
+[2022.09.13-01.21.27:455][715]LogEditorActor: Deleted 1 Actors (0.051 secs)
+[2022.09.13-01.21.28:988][775]LogEditorActor: Deleted Actor: DocumentationActor
+[2022.09.13-01.21.29:026][775]LogEditorActor: Deleted 1 Actors (0.046 secs)
+[2022.09.13-01.21.30:614][831]LogEditorActor: Deleted Actor: TextRenderActor
+[2022.09.13-01.21.30:658][831]LogEditorActor: Deleted 1 Actors (0.052 secs)
+[2022.09.13-01.21.55:418][714]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.09.13-01.21.55:435][714]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.09.13-01.21.55:436][714]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.09.13-01.21.55:436][714]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.09.13-01.21.55:436][714]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.09.13-01.21.55:502][714]LogEditorActor: Deleted 5 Actors (0.139 secs)
+[2022.09.13-01.21.59:298][850]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.09.13-01.21.59:300][850]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.09.13-01.21.59:301][850]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.09.13-01.21.59:302][850]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.09.13-01.21.59:334][850]LogEditorActor: Deleted 4 Actors (0.046 secs)
+[2022.09.13-01.22.04:858][ 49]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.09.13-01.22.04:888][ 49]LogEditorActor: Deleted 1 Actors (0.040 secs)
+[2022.09.13-01.22.15:882][456]LogTemp: Repeating last play command: Selected Viewport
+[2022.09.13-01.22.15:953][456]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2022.09.13-01.22.15:956][456]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.09.13-01.22.15:966][456]PIE: New page: PIE session: ThirdPersonExampleMap (Sep 12, 2022, 3:22:15 PM)
+[2022.09.13-01.22.15:973][456]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.09.13-01.22.16:171][456]LogPlayLevel: PIE: StaticDuplicateObject took: (0.196794s)
+[2022.09.13-01.22.16:204][456]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.09.13-01.22.16:215][456]LogPlayLevel: PIE: World Init took: (0.043118s)
+[2022.09.13-01.22.16:216][456]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.243591s)
+[2022.09.13-01.22.16:257][456]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2022.09.13-01.22.16:305][456]LogInit: FAudioDevice initialized.
+[2022.09.13-01.22.16:394][456]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.09.13-01.22.16:458][456]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2022.09.12-20.22.16
+[2022.09.13-01.22.16:462][456]LogWorld: Bringing up level for play took: 0.053119
+[2022.09.13-01.22.16:500][456]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 1.282
+[2022.09.13-01.22.16:502][456]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2022.09.13-01.23.03:236][560]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2022.09.13-01.23.03:408][560]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2022.09.13-01.23.20:758][215]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2022.09.13-01.23.21:396][224]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2022.09.13-01.23.29:578][463]MapCheck: New page: Map Check
+[2022.09.13-01.23.29:644][463]Cmd: MAP REBUILD ALLVISIBLE
+[2022.09.13-01.23.29:652][463]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2022.09.13-01.25.10:431][463]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2022.09.13-01.25.10:464][463]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_1, compiling. 
+[2022.09.13-01.25.10:475][463]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy LandscapeGizmo_Mat, compiling. 
+[2022.09.13-01.25.10:486][463]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_UE4Man_Body, compiling. 
+[2022.09.13-01.25.10:501][463]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_UE4Man_ChestLogo, compiling. 
+[2022.09.13-01.25.10:512][463]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MatineeCam_mat, compiling. 
+[2022.09.13-01.25.11:214][463]TextureStreamingBuild: Display: Compiling optional shaders took 0.877 seconds.
+[2022.09.13-01.25.11:459][463]LogLevel: Display: Export Material TexCoord Scales took 0.243 seconds.
+[2022.09.13-01.25.11:633][463]TextureStreamingBuild: Display: Build Texture Streaming took 0.172 seconds.
+[2022.09.13-01.25.11:716][463]LightingResults: New page: Lighting Build - Sep 12, 2022, 3:25:11 PM
+[2022.09.13-01.25.12:410][463]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2022.09.13-01.25.13:628][463]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2022.09.13-01.25.13:672][463]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2022.09.13-01.25.14:746][463]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2022.09.13-01.25.14:746][463]LogSwarmInterface: [TryOpenConnection] Local Process ID is 18832
+[2022.09.13-01.25.18:095][463]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2022.09.13-01.25.18:095][463]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2022.09.13-01.25.18:095][463]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2022.09.13-01.25.18:095][463]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2022.09.13-01.25.18:095][463]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2022.09.13-01.25.20:486][463]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2022.09.13-01.25.20:490][463]MapCheck: New page: ThirdPersonExampleMap - Sep 12, 2022, 3:25:20 PM
+[2022.09.13-01.25.20:512][463]MapCheck: Error: WorldInfo_0 Maps need lighting rebuilt 
+[2022.09.13-01.25.21:297][463]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 809.47ms to complete.
+[2022.09.13-01.25.21:332][463]LogEditorBuildUtils: Build time 1:51
+[2022.09.13-01.25.21:526][463]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_1, compiling. 
+[2022.09.13-01.25.21:538][463]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_1, compiling. 
+[2022.09.13-01.25.22:491][464]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_1, compiling. Is special engine material.
+[2022.09.13-01.25.22:504][464]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_1, compiling. Is special engine material.
+[2022.09.13-01.25.25:132][498]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer WorldGridMaterial, compiling. Is special engine material.
+[2022.09.13-01.25.25:146][498]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer WorldGridMaterial, compiling. Is special engine material.
+[2022.09.13-01.25.28:075][500]LogSavePackage: Save=768.66ms
+[2022.09.13-01.25.28:075][500]LogSavePackage: Moving '../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Saved/ThirdPersonExampleMap_Auto1AC45260640353625532DB485A5490F66.tmp' to '../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap'
+[2022.09.13-01.25.28:086][500]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap
+[2022.09.13-01.25.28:114][500]LogSlate: Took 0.004908 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.09.13-01.25.28:119][500]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.972
+[2022.09.13-01.25.28:119][500]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.972
+[2022.09.13-01.25.38:712][634]MapCheck: New page: Map Check
+[2022.09.13-01.25.38:751][634]LogStaticLightingSystem: Warning: Failed to build lighting!!! A lighting build is already in progress! Please cancel it before triggering a new build.
+[2022.09.13-01.25.39:203][634]Job has failed! Job is closed while Tasks are still PENDING
+[2022.09.13-01.25.39:215][634]LogEditorBuildUtils: Build time 0:00
+[2022.09.13-01.27.22:871][499]LogTemp: Repeating last play command: Selected Viewport
+[2022.09.13-01.27.22:948][499]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2022.09.13-01.27.22:954][499]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.09.13-01.27.22:970][499]PIE: New page: PIE session: ThirdPersonExampleMap (Sep 12, 2022, 3:27:22 PM)
+[2022.09.13-01.27.22:979][499]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.09.13-01.27.23:245][499]LogPlayLevel: PIE: StaticDuplicateObject took: (0.262322s)
+[2022.09.13-01.27.23:285][499]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.09.13-01.27.23:296][499]LogPlayLevel: PIE: World Init took: (0.051087s)
+[2022.09.13-01.27.23:306][499]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.328469s)
+[2022.09.13-01.27.23:613][499]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2022.09.13-01.27.24:122][499]LogInit: FAudioDevice initialized.
+[2022.09.13-01.27.24:193][499]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.09.13-01.27.24:254][499]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2022.09.12-20.27.24
+[2022.09.13-01.27.24:258][499]LogWorld: Bringing up level for play took: 0.053148
+[2022.09.13-01.27.24:289][499]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 1.071
+[2022.09.13-01.27.24:290][499]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2022.09.13-01.27.31:787][851]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2022.09.13-01.27.31:927][851]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2022.09.13-01.27.46:123][372]LogEditorViewport: Clicking on Actor (LMB): LightmassImportanceVolume (LightmassImportanceVolume)
+[2022.09.13-01.27.56:238][760]LogTemp: Repeating last play command: Selected Viewport
+[2022.09.13-01.27.56:285][760]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2022.09.13-01.27.56:286][760]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.09.13-01.27.56:295][760]PIE: New page: PIE session: ThirdPersonExampleMap (Sep 12, 2022, 3:27:56 PM)
+[2022.09.13-01.27.56:297][760]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.09.13-01.27.56:492][760]LogPlayLevel: PIE: StaticDuplicateObject took: (0.193953s)
+[2022.09.13-01.27.56:527][760]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.09.13-01.27.56:538][760]LogPlayLevel: PIE: World Init took: (0.045023s)
+[2022.09.13-01.27.56:538][760]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.241241s)
+[2022.09.13-01.27.56:573][760]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2022.09.13-01.27.56:616][760]LogInit: FAudioDevice initialized.
+[2022.09.13-01.27.56:671][760]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.09.13-01.27.56:691][760]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2022.09.12-20.27.56
+[2022.09.13-01.27.56:692][760]LogWorld: Bringing up level for play took: 0.017244
+[2022.09.13-01.27.56:712][760]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.506
+[2022.09.13-01.27.56:714][760]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2022.09.13-01.27.58:388][818]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2022.09.13-01.27.58:457][818]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2022.09.13-01.28.00:267][869]Cmd: SELECT NONE
+[2022.09.13-01.28.21:461][710]LogSavePackage: Save=774.58ms
+[2022.09.13-01.28.21:464][710]LogSavePackage: Moving '../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Saved/ThirdPersonExampleMap78EB77AB46B56F495440718B3AEBBF28.tmp' to '../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2022.09.13-01.28.21:483][710]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2022.09.13-01.28.22:733][710]LogSavePackage: Save=1114.25ms
+[2022.09.13-01.28.22:733][710]LogSavePackage: Moving '../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Saved/ThirdPersonExampleMap_BuiltDataA845B80346818715665620837A94F02D.tmp' to '../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2022.09.13-01.28.22:738][710]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset
+[2022.09.13-01.32.44:066][ 52]LogSavePackage: Save=340.47ms
+[2022.09.13-01.32.44:066][ 52]LogSavePackage: Moving '../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Saved/ThirdPersonExampleMap848151154BB049C5D14EA1955AD038D1.tmp' to '../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2022.09.13-01.32.44:090][ 52]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2022.09.13-01.32.44:472][ 52]LogSavePackage: Save=359.65ms
+[2022.09.13-01.32.44:472][ 52]LogSavePackage: Moving '../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Saved/ThirdPersonExampleMap_BuiltData48A3658C4AE5D8D63974B7B1BC9AFF5A.tmp' to '../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2022.09.13-01.32.44:476][ 52]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset
+[2022.09.13-01.32.50:131][213]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.09.13-01.32.50:156][213]LightingResults: New page: Lighting Build
+[2022.09.13-01.32.50:170][213]LoadErrors: New page: Loading map: Template_Default.umap
+[2022.09.13-01.32.50:232][213]MapCheck: New page: Map Check
+[2022.09.13-01.32.50:232][213]LightingResults: New page: Lighting Build
+[2022.09.13-01.32.50:503][213]LogAIModule: Creating AISystem for world Untitled_1
+[2022.09.13-01.32.50:544][213]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.09.13-01.32.50:571][213]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.09.13-01.32.50:944][213]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 372.069ms to complete.
+[2022.09.13-01.32.50:944][213]LogFileHelpers: Loading map 'Template_Default' took 0.842
+[2022.09.13-01.32.53:891][321]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.09.13-01.33.28:969][990]LogTexture: Display: Building textures: Texture2D_3 (G8, 128X128)
+[2022.09.13-01.33.44:434][666]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2022.09.13-01.33.47:946][788]LogTemp: Repeating last play command: Selected Viewport
+[2022.09.13-01.33.47:997][788]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.09.13-01.33.48:005][788]PIE: New page: PIE session: Untitled_1 (Sep 12, 2022, 3:33:47 PM)
+[2022.09.13-01.33.48:007][788]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2022.09.13-01.33.48:083][788]LogPlayLevel: PIE: StaticDuplicateObject took: (0.076416s)
+[2022.09.13-01.33.48:089][788]LogAIModule: Creating AISystem for world Untitled_1
+[2022.09.13-01.33.48:091][788]LogPlayLevel: PIE: World Init took: (0.006976s)
+[2022.09.13-01.33.48:091][788]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.084781s)
+[2022.09.13-01.33.48:138][788]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2022.09.13-01.33.48:214][788]LogInit: FAudioDevice initialized.
+[2022.09.13-01.33.48:267][788]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.09.13-01.33.48:277][788]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 60) at 2022.09.12-20.33.48
+[2022.09.13-01.33.48:279][788]LogWorld: Bringing up level for play took: 0.005557
+[2022.09.13-01.33.48:289][788]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.09.13-01.33.48:322][788]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=116.000] for [ThirdPersonCharacter_C]
+[2022.09.13-01.33.48:322][788]LogGameMode: Warning: SpawnDefaultPawnAtTransform: Couldn't spawn Pawn of type ThirdPersonCharacter_C at Rotation: Pitch 0.000000 Yaw 0.000000 Roll 0.000000
+Translation: 0.000000 0.000000 0.000000
+Scale3D: 1.000000 1.000000 1.000000
+
+[2022.09.13-01.33.48:329][788]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 1.112
+[2022.09.13-01.35.17:313][731]LogEditor: Attempting to add actor of class 'LightmassPortal' to level at -1008590.00,-611760.00,0.00
+[2022.09.13-01.35.18:861][823]LogEditor: Attempting to add actor of class 'LightmassPortal' to level at -63930.00,-364580.00,0.00
+[2022.09.13-01.35.20:987][949]LogTemp: Repeating last play command: Selected Viewport
+[2022.09.13-01.35.20:996][949]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.09.13-01.35.20:996][949]PIE: New page: PIE session: Untitled_1 (Sep 12, 2022, 3:35:20 PM)
+[2022.09.13-01.35.20:996][949]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2022.09.13-01.35.21:015][949]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018860s)
+[2022.09.13-01.35.21:016][949]LogAIModule: Creating AISystem for world Untitled_1
+[2022.09.13-01.35.21:016][949]LogPlayLevel: PIE: World Init took: (0.001223s)
+[2022.09.13-01.35.21:016][949]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.020502s)
+[2022.09.13-01.35.21:030][949]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2022.09.13-01.35.21:051][949]LogInit: FAudioDevice initialized.
+[2022.09.13-01.35.21:086][949]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.09.13-01.35.21:090][949]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 60) at 2022.09.12-20.35.21
+[2022.09.13-01.35.21:091][949]LogWorld: Bringing up level for play took: 0.003464
+[2022.09.13-01.35.21:096][949]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 -0.121
+[2022.09.13-01.36.02:250][351]LogEditorActor: Deleted Actor: SkyLight
+[2022.09.13-01.36.02:261][351]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2022.09.13-01.36.10:066][816]LogEditorActor: Deleted Actor: PlayerStart
+[2022.09.13-01.36.10:079][816]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2022.09.13-01.36.14:771][ 91]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.09.13-01.36.14:782][ 91]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2022.09.13-01.36.29:434][734]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.09.13-01.36.29:448][734]LightingResults: New page: Lighting Build
+[2022.09.13-01.36.29:450][734]LoadErrors: New page: Loading map: Template_Default.umap
+[2022.09.13-01.36.29:453][734]MapCheck: New page: Map Check
+[2022.09.13-01.36.29:453][734]LightingResults: New page: Lighting Build
+[2022.09.13-01.36.29:500][734]LogAIModule: Creating AISystem for world Untitled_2
+[2022.09.13-01.36.29:506][734]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.09.13-01.36.29:518][734]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.09.13-01.36.29:870][734]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 351.565ms to complete.
+[2022.09.13-01.36.29:870][734]LogFileHelpers: Loading map 'Template_Default' took 0.438
+[2022.09.13-01.36.37:368][177]LogTemp: Repeating last play command: Selected Viewport
+[2022.09.13-01.36.37:384][177]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.09.13-01.36.37:385][177]PIE: New page: PIE session: Untitled_2 (Sep 12, 2022, 3:36:37 PM)
+[2022.09.13-01.36.37:385][177]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_2
+[2022.09.13-01.36.37:411][177]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025376s)
+[2022.09.13-01.36.37:411][177]LogAIModule: Creating AISystem for world Untitled_2
+[2022.09.13-01.36.37:412][177]LogPlayLevel: PIE: World Init took: (0.000971s)
+[2022.09.13-01.36.37:413][177]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_2.Untitled_2 to /Temp/UEDPIE_0_Untitled_2.Untitled_2 (0.026743s)
+[2022.09.13-01.36.37:428][177]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2022.09.13-01.36.37:459][177]LogInit: FAudioDevice initialized.
+[2022.09.13-01.36.37:497][177]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.09.13-01.36.37:504][177]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_2.Untitled_2 up for play (max tick rate 60) at 2022.09.12-20.36.37
+[2022.09.13-01.36.37:505][177]LogWorld: Bringing up level for play took: 0.000736
+[2022.09.13-01.36.37:514][177]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_2 0.297
+[2022.09.13-01.36.56:572][ 19]LogMaterial: Missing cached shader map for material M_Brick_Cut_Stone, compiling. 
+[2022.09.13-01.36.58:909][136]LogTemp: Repeating last play command: Selected Viewport
+[2022.09.13-01.36.58:936][136]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.09.13-01.36.58:936][136]PIE: New page: PIE session: Untitled_2 (Sep 12, 2022, 3:36:58 PM)
+[2022.09.13-01.36.58:936][136]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_2
+[2022.09.13-01.36.58:949][136]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012616s)
+[2022.09.13-01.36.58:950][136]LogAIModule: Creating AISystem for world Untitled_2
+[2022.09.13-01.36.58:950][136]LogPlayLevel: PIE: World Init took: (0.001294s)
+[2022.09.13-01.36.58:950][136]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_2.Untitled_2 to /Temp/UEDPIE_0_Untitled_2.Untitled_2 (0.014365s)
+[2022.09.13-01.36.58:972][136]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2022.09.13-01.36.59:003][136]LogInit: FAudioDevice initialized.
+[2022.09.13-01.36.59:042][136]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.09.13-01.36.59:044][136]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_2.Untitled_2 up for play (max tick rate 60) at 2022.09.12-20.36.59
+[2022.09.13-01.36.59:044][136]LogWorld: Bringing up level for play took: 0.000954
+[2022.09.13-01.36.59:047][136]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_2 -0.171
+[2022.09.13-01.37.03:921][400]MapCheck: New page: Map Check
+[2022.09.13-01.37.03:944][400]Cmd: MAP REBUILD ALLVISIBLE
+[2022.09.13-01.37.03:945][400]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2022.09.13-01.37.07:736][400]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2022.09.13-01.37.07:744][400]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Brick_Cut_Stone, compiling. 
+[2022.09.13-01.37.07:750][400]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_1, compiling. 
+[2022.09.13-01.37.08:096][400]TextureStreamingBuild: Display: Compiling optional shaders took 0.386 seconds.
+[2022.09.13-01.37.08:181][400]LogLevel: Display: Export Material TexCoord Scales took 0.085 seconds.
+[2022.09.13-01.37.08:189][400]TextureStreamingBuild: Display: Build Texture Streaming took 0.007 seconds.
+[2022.09.13-01.37.08:203][400]LightingResults: New page: Lighting Build - Sep 12, 2022, 3:37:08 PM
+[2022.09.13-01.37.08:231][400]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2022.09.13-01.37.08:242][400]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2022.09.13-01.37.08:248][400]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2022.09.13-01.37.08:263][400]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2022.09.13-01.37.08:263][400]LogSwarmInterface: [TryOpenConnection] Local Process ID is 18832
+[2022.09.13-01.37.12:942][400]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2022.09.13-01.37.12:942][400]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2022.09.13-01.37.12:943][400]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2022.09.13-01.37.12:943][400]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2022.09.13-01.37.12:943][400]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2022.09.13-01.37.12:943][400]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2022.09.13-01.37.13:376][400]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2022.09.13-01.37.13:377][400]MapCheck: New page: Untitled_2 - Sep 12, 2022, 3:37:13 PM
+[2022.09.13-01.37.13:835][400]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 458.439ms to complete.
+[2022.09.13-01.37.13:859][400]LogEditorBuildUtils: Build time 0:09
+[2022.09.13-01.37.13:875][400]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Brick_Cut_Stone, compiling. 
+[2022.09.13-01.37.13:882][400]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Brick_Cut_Stone, compiling. 
+[2022.09.13-01.37.19:055][624]Job is a success!
+[2022.09.13-01.37.19:127][625]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.011s
+[2022.09.13-01.37.19:127][625]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2022.09.13-01.37.19:127][625]LogVolumetricLightmapImport:      BrickData 30x5x5 = 0.0Mb
+[2022.09.13-01.37.19:127][625]LogVolumetricLightmapImport:      Bricks at Level
+[2022.09.13-01.37.19:127][625]LogVolumetricLightmapImport:          0: 16.7% covering 100.0% of volume
+[2022.09.13-01.37.19:127][625]LogVolumetricLightmapImport:          1: 16.7% covering 1.6% of volume
+[2022.09.13-01.37.19:127][625]LogVolumetricLightmapImport:          2: 66.7% covering 0.1% of volume
+[2022.09.13-01.37.19:198][625]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 256X256)
+[2022.09.13-01.37.19:198][625]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 256X256)
+[2022.09.13-01.37.19:198][625]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 64X64)
+[2022.09.13-01.37.19:198][625]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 64X64)
+[2022.09.13-01.37.19:198][625]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 32X32)
+[2022.09.13-01.37.19:198][625]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 128X128)
+[2022.09.13-01.37.19:245][625]LogStaticLightingSystem: Illumination: 11.0 sec (36 ms encoding lightmaps, 18 ms encoding shadowmaps)
+[2022.09.13-01.37.19:245][625]LogStaticLightingSystem: Lightmap texture memory:  0.1 MB (0.1 MB streaming, 0.0 MB non-streaming), 4 textures
+[2022.09.13-01.37.19:245][625]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2022.09.13-01.37.19:951][625]DumpUnbuiltLightIteractions
+[2022.09.13-01.37.19:951][625]Lights with unbuilt interactions: 0
+[2022.09.13-01.37.19:951][625]
+[2022.09.13-01.37.19:951][625]Primitives with unbuilt interactions: 0
+[2022.09.13-01.37.20:278][626]Cmd: MAP CHECK NOTIFYRESULTS
+[2022.09.13-01.37.20:279][626]MapCheck: New page: Untitled_2 - Sep 12, 2022, 3:37:20 PM
+[2022.09.13-01.37.20:340][626]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 61.395ms to complete.
+[2022.09.13-01.37.49:480][339]LogTexture: Display: Building textures: Texture2D_4 (G8, 128X128)
+[2022.09.13-01.38.27:074][406]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2022.09.13-01.38.27:778][448]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2022.09.13-01.38.33:970][817]Cmd: TRANSACTION UNDO
+[2022.09.13-01.38.33:970][817]LogEditorTransaction: Undo Move Actors
+[2022.09.13-01.40.21:656][424]LogMemory: Warning: Freeing 33554432 bytes from backup pool to handle out of memory.
+[2022.09.13-01.40.21:667][424]LogMemory: Warning: MemoryStats:
+	AvailablePhysical 77299712
+	 AvailableVirtual 140726412644352
+	     UsedPhysical 1329172480
+	 PeakUsedPhysical 1435377664
+	      UsedVirtual 5099888640
+	  PeakUsedVirtual 5109534720
+[2022.09.13-01.40.21:669][424]Allocator Stats for TBB: (not implemented)
+[2022.09.13-01.40.21:672][424]LogWindows: Windows GetLastError: The operation completed successfully. (0)
