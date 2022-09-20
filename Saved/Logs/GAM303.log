@@ -619,6 +619,7 @@ Make sure 'Bp_Meteor' has been compiled for  Get Spline
 [2022.09.20-04.01.58:097][241]LogSavePackage: Save=272.31ms
 [2022.09.20-04.01.58:098][241]LogSavePackage: Moving '../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Saved/Module3_BuiltData2C5950914F7180CF449490A167944ED8.tmp' to '../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/Levels/Module3_BuiltData.uasset'
 [2022.09.20-04.01.58:100][241]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/Levels/Module3_BuiltData.uasset
+<<<<<<< HEAD
 [2022.09.20-04.08.15:114][801]LogEditorViewport: Clicking on Actor (LMB): Bp_Meteor_C (Bp_Meteor)
 [2022.09.20-04.12.00:819][161]BlueprintLog: New page: Compile Bp_Meteor
 [2022.09.20-04.12.03:299][208]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Bp_Meteor" FILE="../../../../../Users/Waifs/OneDrive/Documents/Unreal Projects/GAM303/Content/BluePrints/Bp_Meteor.uasset" SILENT=true
@@ -936,3 +937,5 @@ Make sure 'Bp_Meteor' has been compiled for  Get Spline
 [2022.09.20-04.18.18:215][134]LogModuleManager: Shutting down and abandoning module PakFile (2)
 [2022.09.20-04.18.18:225][134]LogExit: Exiting.
 [2022.09.20-04.18.18:276][134]Log file closed, 09/19/22 23:18:18
+=======
+>>>>>>> CS-303-SNHU/Mod3_RotatingMeteor
