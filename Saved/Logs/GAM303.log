@@ -1660,6 +1660,7 @@ Would you like to checkout, load, and save all Blueprints to make this indexing 
 [2022.10.03-02.46.35:787][154]AssetCheck: New page: Asset Save: multiple assets
 [2022.10.03-02.46.35:787][154]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
 [2022.10.03-02.46.35:787][154]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+<<<<<<< HEAD
 [2022.10.03-02.51.14:339][234]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
 [2022.10.03-02.51.46:229][499]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
 [2022.10.03-02.52.04:903][133]LogEditorTransaction: Undo Move Node
@@ -2282,3 +2283,5 @@ Would you like to checkout, load, and save all Blueprints to make this indexing 
 [2022.10.03-02.55.06:579][102]LogD3D11RHI: Intel Extensions Framework unloaded
 [2022.10.03-02.55.06:606][102]LogExit: Exiting.
 [2022.10.03-02.55.06:685][102]Log file closed, 10/02/22 21:55:06
+=======
+>>>>>>> CS-303-SNHU/Mod5Task8
